@@ -11,6 +11,7 @@
       http://localhost:10000/about => AboutView.vue
       -->
       <router-view></router-view>
+<!--      添加代码。。。-->
     </div>
   </div>
 </template>
